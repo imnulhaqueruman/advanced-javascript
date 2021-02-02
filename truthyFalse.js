@@ -8,7 +8,7 @@
 // undefined
 //truthy
 // "0" " " [] {} 
-
+const name1 = ``;
 if(name1){
     console.log('condition is true');
 }
